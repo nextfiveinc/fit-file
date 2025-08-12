@@ -3,9 +3,22 @@
 This is a self-contained, single-file web application for planning and tracking a 12-week fitness program. It runs entirely in your browser with no need for installation, internet connection (after loading once), or user accounts.
 
 The default program is designed for building the physical conditioning required for a basic mountaineering course, but it is fully customizable to fit any fitness goal.
-
   
-Screenshots here
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-20-39.png" alt="Light theme home page" width="400">
+      <br>
+      <em>Highlighting text to save a note.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-21-29.png" alt="Light theme home page" width="400">
+      <br>
+      <em>Viewing all saved highlights.</em>
+    </td>
+  </tr>
+</table>
+
 
 ## Why Use This App?
 
