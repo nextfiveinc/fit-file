@@ -113,7 +113,8 @@ An `exercise` object has the following structure:
   "description": "...",    // How to perform the exercise
   "notes": "...",           // Additional tips or modifications
   "youtubeLink": "..."     // A URL to a video guide
-}```
+}
+```
 
 ## License
 
