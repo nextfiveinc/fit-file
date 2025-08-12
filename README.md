@@ -9,12 +9,12 @@ The default program is designed for building the physical conditioning required 
     <td align="center">
       <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-20-39.png" alt="Light theme home page" width="400">
       <br>
-      <em>Highlighting text to save a note.</em>
+      <em>Light theme home page</em>
     </td>
     <td align="center">
-      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-21-29.png" alt="Light theme home page" width="400">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-21-29.png" alt="Dark theme home page" width="400">
       <br>
-      <em>Viewing all saved highlights.</em>
+      <em>Dark theme home page</em>
     </td>
   </tr>
 </table>
@@ -45,6 +45,27 @@ The default program is designed for building the physical conditioning required 
 
 Your progress is automatically saved in the browser you use. To continue your program, simply open the same file in the same browser.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-21-42.png" width="250">
+      <br>
+      <em>Count reps and sets</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-22-34.png" width="250">
+      <br>
+      <em>Timed exercises</em>
+    </td>
+        <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-25-38.png" width="250">
+      <br>
+      <em>Rest Days</em>
+    </td>
+  </tr>
+</table>
+
+
 ## For Advanced Users & Developers
 
 This application is built with vanilla HTML, CSS, and JavaScript, making it easy to modify.
@@ -55,6 +76,21 @@ You have two primary ways to alter the workout program:
 
 1.  **Live Editor:** Click the "Edit Plan" button in the app. This opens a modal where you can directly edit the JSON that defines the entire workout structure.
 2.  **Import/Export:** You can export the current configuration to a `.json` file. This is useful for backing up your plan or sharing it with others. You can then import a `.json` file to load a new program.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-28-40.png" width="300">
+      <br>
+      <em>View Goals</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nextfiveinc/fit-file/blob/main/screenshots/Screenshot%20from%202025-08-12%2016-28-48.png" width="300">
+      <br>
+      <em>Edit Goals</em>
+  </tr>
+</table>
+
 
 ### The Configuration Structure
 
